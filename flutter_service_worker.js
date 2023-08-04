@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
+const RESOURCES = {"5257790_ball_game_sports_squash_icon.png": "31434c065262657b0945775b29a79299",
+"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4878b09d26e1d3c469d5d9d201fca17f",
@@ -17,14 +18,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "693635b5258fe5f1cda720cf224f158c
 "canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
 "canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"favicon.png": "c67cd72836269f02d3df6b1bfa084d39",
 "flutter.js": "6b515e434cea20006b3ef1726d2c8894",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b8934f82d52361a64ac51dbd1c00c14d",
-"/": "b8934f82d52361a64ac51dbd1c00c14d",
+"icons/Icon-192.png": "f7c6e7719b74e4eeeaab64a5b68513f3",
+"icons/Icon-512.png": "31434c065262657b0945775b29a79299",
+"icons/Icon-maskable-192.png": "f7c6e7719b74e4eeeaab64a5b68513f3",
+"icons/Icon-maskable-512.png": "31434c065262657b0945775b29a79299",
+"index.html": "aa2b9ca8e020fd3d4bd46fd866481a5e",
+"/": "aa2b9ca8e020fd3d4bd46fd866481a5e",
 "main.dart.js": "c326c7ebaca60255b785284727c33101",
 "manifest.json": "aeb757867366dcf06f03be3994748d3f",
 "version.json": "bcf23df920c9c0398e0a1b75dbe0895c"};
