@@ -26,9 +26,9 @@ const RESOURCES = {"5257790_ball_game_sports_squash_icon.png": "31434c065262657b
 "icons/Icon-512.png": "31434c065262657b0945775b29a79299",
 "icons/Icon-maskable-192.png": "f7c6e7719b74e4eeeaab64a5b68513f3",
 "icons/Icon-maskable-512.png": "31434c065262657b0945775b29a79299",
-"index.html": "1e9145b5285de3fb2a670afe707ca8b9",
-"/": "1e9145b5285de3fb2a670afe707ca8b9",
-"main.dart.js": "92d69de4c1241b23848a0153bea5879d",
+"index.html": "039b6819683abf0fe3c6fd811999afce",
+"/": "039b6819683abf0fe3c6fd811999afce",
+"main.dart.js": "09b57a7f61b5ea04d90bdc33a4ef9584",
 "manifest.json": "aeb757867366dcf06f03be3994748d3f",
 "version.json": "bcf23df920c9c0398e0a1b75dbe0895c"};
 // The application shell files that are downloaded before a service worker can
