@@ -8,7 +8,7 @@ const RESOURCES = {"5257790_ball_game_sports_squash_icon.png": "31434c065262657b
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4878b09d26e1d3c469d5d9d201fca17f",
-"assets/NOTICES": "b3e29650f6a9030e73162777baca150b",
+"assets/NOTICES": "638e343cef0b2d21142166c1f73e0af3",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
@@ -26,11 +26,11 @@ const RESOURCES = {"5257790_ball_game_sports_squash_icon.png": "31434c065262657b
 "icons/Icon-512.png": "31434c065262657b0945775b29a79299",
 "icons/Icon-maskable-192.png": "f7c6e7719b74e4eeeaab64a5b68513f3",
 "icons/Icon-maskable-512.png": "31434c065262657b0945775b29a79299",
-"index.html": "b702ae8db94347926fba034b57928cf5",
-"/": "b702ae8db94347926fba034b57928cf5",
-"main.dart.js": "3c023c2eaecca98e954660eeeaa877e1",
+"index.html": "7f118b7aad0624a087a8a46037ceed57",
+"/": "7f118b7aad0624a087a8a46037ceed57",
+"main.dart.js": "97a084c2e1f3e5e286b980d2b6b81d48",
 "manifest.json": "aeb757867366dcf06f03be3994748d3f",
-"version.json": "bcf23df920c9c0398e0a1b75dbe0895c"};
+"version.json": "df2a82af3a9e043cb67471bed6e374a6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
