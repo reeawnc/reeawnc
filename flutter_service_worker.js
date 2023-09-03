@@ -26,11 +26,11 @@ const RESOURCES = {"5257790_ball_game_sports_squash_icon.png": "31434c065262657b
 "icons/Icon-512.png": "31434c065262657b0945775b29a79299",
 "icons/Icon-maskable-192.png": "f7c6e7719b74e4eeeaab64a5b68513f3",
 "icons/Icon-maskable-512.png": "31434c065262657b0945775b29a79299",
-"index.html": "8cb91d1d9dce5784869c95653945c2ba",
-"/": "8cb91d1d9dce5784869c95653945c2ba",
-"main.dart.js": "e342f91bae60e15e70927ae0dcdd6083",
+"index.html": "a8412844ef95a7abb01a406b8500e8a6",
+"/": "a8412844ef95a7abb01a406b8500e8a6",
+"main.dart.js": "6001ae2dfdd7170950a3e51bc19a349f",
 "manifest.json": "aeb757867366dcf06f03be3994748d3f",
-"version.json": "ce0cf7e10cbd1659d08b7b29c9925de1"};
+"version.json": "6cff9368e0d6a8131d9c2212a72697a6"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
